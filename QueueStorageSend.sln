@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueStorageSender", "QueueStorageSend\QueueStorageSender.csproj", "{D4D7089E-9841-4D65-803D-CBF8A2A0C8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrsossCutting", "CrsossCutting\CrsossCutting.csproj", "{A39B7083-4F9D-4F0C-9A7B-5DF79949F72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueStorageReciver", "QueueStorageReciver\QueueStorageReciver.csproj", "{2C244FD4-88E1-4AB6-A92C-413593D7F6E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueStorageWebJob", "QueueStorageWebJob\QueueStorageWebJob.csproj", "{DB922172-407E-497A-A000-63C456541F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4D7089E-9841-4D65-803D-CBF8A2A0C8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D7089E-9841-4D65-803D-CBF8A2A0C8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D7089E-9841-4D65-803D-CBF8A2A0C8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D7089E-9841-4D65-803D-CBF8A2A0C8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39B7083-4F9D-4F0C-9A7B-5DF79949F72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39B7083-4F9D-4F0C-9A7B-5DF79949F72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39B7083-4F9D-4F0C-9A7B-5DF79949F72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39B7083-4F9D-4F0C-9A7B-5DF79949F72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C244FD4-88E1-4AB6-A92C-413593D7F6E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C244FD4-88E1-4AB6-A92C-413593D7F6E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C244FD4-88E1-4AB6-A92C-413593D7F6E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C244FD4-88E1-4AB6-A92C-413593D7F6E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB922172-407E-497A-A000-63C456541F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB922172-407E-497A-A000-63C456541F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB922172-407E-497A-A000-63C456541F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB922172-407E-497A-A000-63C456541F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CrsossCutting/bin/Debug
+/CrsossCutting/obj/Debug
+/QueueStorageReciver/bin/Debug
+/QueueStorageReciver/obj/Debug
+/QueueStorageSend/bin/Debug
+/QueueStorageSend/obj/Debug
+/QueueStorageWebJob/bin/Debug
+/QueueStorageWebJob/obj/Debug
